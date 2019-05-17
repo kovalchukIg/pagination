@@ -1,0 +1,26 @@
+table{
+  width: 100%;
+}
+.mat-elevation-z8{
+  width: 70%;
+  margin: 0 auto;
+}
+.mat-input-element{
+  height: 40px;
+}
+.mat-input-element::placeholder{
+  color: grey;
+}
+.search-input{
+  display: flex;
+  justify-content: space-between;
+}
+.mat-button{
+  color: grey;
+}
+td.mat-cell{
+  padding: 5px;
+}
+th.mat-header-cell{
+  padding: 5px;
+}
